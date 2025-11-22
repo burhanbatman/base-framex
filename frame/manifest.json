@@ -3,12 +3,11 @@
   "slug": "sudoku-frame",
   "description": "Interactive Sudoku inside a Farcaster Frame (cell selection via multiple screens)",
   "icon": "/logo.png",
-  "frame_url": "https://https://sudoku-farcaster-frame-plum.vercel.app/api/frame",
+  "frame_url": "https://sudoku-farcaster-frame-plum.vercel.app/api/frame",
   "author": {
-    "name": "Your Name",
-    "url": "https://your-site.example"
+    "name": "BrTK",
+    "url": "https://sudoku-farcaster-frame-plum.vercel.app"
   },
   "tags": ["game","puzzle","sudoku"],
   "version": "1.0.0"
-
 }
