@@ -1,0 +1,13 @@
+{
+  "name": "Sudoku Frame",
+  "slug": "sudoku-frame",
+  "description": "Interactive Sudoku inside a Farcaster Frame (cell selection via multiple screens)",
+  "icon": "/logo.png",
+  "frame_url": "https://<YOUR_VERCEL_URL>/api/frame",
+  "author": {
+    "name": "Your Name",
+    "url": "https://your-site.example"
+  },
+  "tags": ["game","puzzle","sudoku"],
+  "version": "1.0.0"
+}
